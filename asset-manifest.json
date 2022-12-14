@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/props2-react/static/css/main.3431abd8.css",
+    "main.js": "/props2-react/static/js/main.ed397199.js",
+    "static/media/pumpkin.png": "/props2-react/static/media/pumpkin.2acbcd5c1048bbf9ec0b.png",
+    "static/media/felix.png": "/props2-react/static/media/felix.b40c9cc223c39660d527.png",
+    "static/media/fluffykins.png": "/props2-react/static/media/fluffykins.239d6a743311a30ce2cb.png",
+    "static/media/mr-whiskerson.png": "/props2-react/static/media/mr-whiskerson.d8194635a0fe9928c0de.png",
+    "index.html": "/props2-react/index.html",
+    "main.3431abd8.css.map": "/props2-react/static/css/main.3431abd8.css.map",
+    "main.ed397199.js.map": "/props2-react/static/js/main.ed397199.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3431abd8.css",
+    "static/js/main.ed397199.js"
+  ]
+}
